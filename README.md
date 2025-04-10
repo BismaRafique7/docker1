@@ -1,3 +1,4 @@
+
 # Node Docker App
 
 This is a simple Node.js web application that returns "Hello, Docker!" when accessed.  
@@ -8,3 +9,5 @@ It is containerized using Docker.
 ### 1. Build the Docker image:
 ```bash
 docker build -t node-docker-app .
+
+
